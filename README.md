@@ -22,16 +22,16 @@
 ---
 
 ### ⚙️ Tech Stack by Pinned Projects ⚙️
-#### 🥇 Food Hunter — *Pure Web Engineering*
+#### 📌 Food Hunter — *Pure Web Engineering*
 > **JS (ES6)** • Web Components • Shadow DOM • SCSS • Webpack • Workbox • IndexedDB • Karma + Jasmine
 
-#### 🥈 Strovie — *Vue 2 Era Vibes*
+#### 📌 Strovie — *Vue 2 Era Vibes*
 > **Vue 2** • Vuex • Vuetify • Axios • Lodash • Workbox • PWA • Netlify-ready  
 
-#### 🥉 My Notes — *Nuxt 3 Renaissance*
+#### 📌 My Notes — *Nuxt 3 Renaissance*
 > **Nuxt 3** • TypeScript • Pinia • VueUse • @nuxt/ui • Tailwind • Vitest • Playwright • MSW  
 
-#### 🧱 My Notes Service — *Backend Integration*
+#### 📌 My Notes Service — *Backend Integration*
 > **Express** • Sequelize + PostgreSQL • Redis • Resend • Rate Limiting • Cookie Parser  
 
 ---
