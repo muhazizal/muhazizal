@@ -2,7 +2,7 @@
 
 <!-- 🧠 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=40E0D0&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Aziz!+👋;Frontend+Engineer+%7C+Nuxt+%26+TypeScript+Vibes;Building+beautiful+web+experiences+🚀" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=40E0D0&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Aziz!+👋;Frontend+Engineer+%7C+Nuxt+%26+TypeScript+Vibes;“Code+with+clarity, design+with+empathy,+ship+with+purpose.”" alt="Typing SVG" />
 </p>
 
 <!-- 🌈 Cyber Glow Divider -->
@@ -13,8 +13,10 @@
 <h3 align="center">💡 Frontend Engineer | TypeScript • Tailwind • Vue • Nuxt</h3>
 
 <p align="center">
-  <b>Turning ideas into interactive, high-performance web apps.</b><br>
-  <i>“Code with clarity, design with empathy, ship with purpose.”</i>
+  💻 Frontend Engineer who vibes with <b>TypeScript, Nuxt, and modern tooling</b> <br/>
+  🧩 Loves exploring <b>web performance, testing, and clean architecture</b> <br/>
+  🪄 Makes UI feel alive — animations, responsive layouts, and real-time interactions <br/>
+  ☕ Always down to talk code, design systems, or good coffee  
 </p>
 
 ---
