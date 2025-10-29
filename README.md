@@ -34,9 +34,6 @@
 #### 🧱 My Notes Service — *Backend Integration*
 > **Express** • Sequelize + PostgreSQL • Redis • Resend • Rate Limiting • Cookie Parser  
 
-#### 💫 Wedding Invitation — *Modern Vue 3 Stack*
-> **Vue 3 (script setup)** • Vite • Tailwind • SCSS • PostCSS • Autoprefixer  
-
 ---
 
 ### 🌐 Connect & Vibe
