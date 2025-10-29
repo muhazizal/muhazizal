@@ -2,7 +2,7 @@
 
 <!-- 🧠 Animated Typing Intro -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=40E0D0&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Aziz!+👋;Frontend+Engineer+%7C+Nuxt+%26+TypeScript+Vibes;Code+with+clarity+✨" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=28&duration=3500&pause=800&color=0A66C2&center=true&vCenter=true&width=1000&lines=Hey%2C+I'm+Aziz!+👋;Frontend+Engineer+%7C+Nuxt+%26+TypeScript+Vibes;Code+with+clarity+✨" alt="Typing SVG" />
 </p>
 
 <!-- 🌈 Cyber Glow Divider -->
