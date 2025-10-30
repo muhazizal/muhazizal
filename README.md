@@ -13,10 +13,9 @@
 <h3 align="center">💡 Frontend Engineer | TypeScript • Tailwind • Vue • Nuxt</h3>
 
 <p align="center">
-  💻 Frontend Engineer who vibes with <b>TypeScript, Nuxt, and modern tooling</b> <br/>
+  💻 Frontend Engineer who vibes with <b>JS/TS, Vue+Nuxt, and modern tooling</b> <br/>
   🧩 Loves exploring <b>web performance, testing, and clean architecture</b> <br/>
   🪄 Makes UI feel alive — animations, responsive layouts, and real-time interactions <br/>
-  ☕ Always down to talk code, design systems, or good coffee  
 </p>
 
 ---
