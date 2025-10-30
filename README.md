@@ -31,4 +31,4 @@
 > **Nuxt 3** • TypeScript • Pinia • VueUse • @nuxt/ui • Tailwind • Vitest • Playwright • MSW  
 
 #### 📌 My Notes Service — *Backend Integration*
-> **Express** • Sequelize + PostgreSQL • Redis • Resend • Rate Limiting • Cookie Parser  
+> **Express** • Sequelize + PostgreSQL • SQLite • Redis • Resend • Rate Limiting • Cookie Parser • Jest • Supertest 
