@@ -15,7 +15,7 @@
 <p align="center">
   💻 Frontend Engineer who vibes with <b>JS/TS, Vue+Nuxt, and modern tooling</b> <br/>
   🧩 Loves exploring <b>web performance, testing, and clean architecture</b> <br/>
-  🪄 Makes UI feel alive — animations, responsive layouts, and real-time interactions <br/>
+  🪄 Makes UI feel alive — <b>animations, responsive layouts, and real-time interactions<b> <br/>
 </p>
 
 ---
