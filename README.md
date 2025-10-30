@@ -33,5 +33,3 @@
 
 #### 📌 My Notes Service — *Backend Integration*
 > **Express** • Sequelize + PostgreSQL • Redis • Resend • Rate Limiting • Cookie Parser  
-
----
