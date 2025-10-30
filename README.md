@@ -10,12 +10,12 @@
   <img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&height=2&section=header&reversal=true&gradient=0,0,128,0,255,255" />
 </p>
 
-<h3 align="center">💡 Frontend Engineer | TypeScript • Tailwind • Vue • Nuxt</h3>
+<h3 align="center">💡 Fullstack JavaScript wannabe with a frontend heart ❤️</h3>
 
 <p align="center">
-  💻 Frontend Engineer who vibes with <b>JS/TS, Vue+Nuxt, and modern tooling</b> <br/>
-  🧩 Loves exploring <b>web performance, testing, and clean architecture</b> <br/>
-  🪄 Makes UI feel alive — <b>animations, responsive layouts, and real-time interactions<b> <br/>
+  🧠 I vibe with <b>JS/TS, Vue+Nuxt, and Tailwind</b>, and I’m learning to think backend too. <br>
+  ⚙️ Exploring <b>performance, testing, and clean architecture</b>, one deploy at a time. <br>
+  🪄 I make UIs feel alive — <b>smooth, responsive, and real-time interactive</b>. <br>
 </p>
 
 ---
