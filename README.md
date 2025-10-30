@@ -20,7 +20,7 @@
 
 ---
 
-### ⚙️ Tech Stack by Pinned Personal Projects ⚙️
+### ⚙️ Tech Stack by Pinned Projects ⚙️
 #### 📌 Food Hunter — *Pure Web Engineering*
 > **JS (ES6)** • Web Components • Shadow DOM • SCSS • Webpack • Workbox • IndexedDB • Karma + Jasmine
 
